@@ -1,4 +1,5 @@
-<h1> Node.js Express MongoDB </h1>
+<h1> Petpack Backend </h1>
+<p> Node.js Express MongoDB </p>
 <p> Petpack social network, skg.code project </p>
 <p> Connect with friends and pets around you on PetPack. </p>
 <h2> Installation </h2>
